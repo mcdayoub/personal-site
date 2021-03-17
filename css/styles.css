@@ -9833,7 +9833,7 @@ a.text-light:hover, a.text-light:focus {
 }
 
 .text-dark {
-  color: #343a40 !important;
+  color: #343a40 !important; 
 }
 
 a.text-dark:hover, a.text-dark:focus {
@@ -10015,6 +10015,10 @@ p.lead {
   font-size: 1.5rem;
 }
 
+.subheading a {
+  color: #2bb1aa;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
@@ -10079,7 +10083,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #2bb1aa;
 }
 
 .dev-icons {
